@@ -1,14 +1,14 @@
-Assignment 3 - Submission Checklist
+Assignment 3A - Submission Checklist
 
 Required by teacher:
 1) Used python code
-   - File: assignment3.py
+   - File: assignment3a.py
 2) Results of classification
-   - File generated after run: report_assignment3.txt
+   - File generated after run: report_assignment3a.txt
 3) Explanation of results
-   - Included section in report_assignment3.txt
+   - Included section in report_assignment3a.txt
 4) Conclusions
-   - Included section in report_assignment3.txt
+   - Included section in report_assignment3a.txt
 5) Trained model weights file
    - Files generated after run:
      - model_run_1.ckpt
@@ -17,4 +17,4 @@ Required by teacher:
      - trained_model_weights.ckpt (best model copy)
 
 Other generated artifacts:
-- loss_assignment3.png
+- loss_assignment3a.png
